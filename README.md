@@ -10,7 +10,8 @@ A smart, interactive grading application for educators — now available as both
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshots/Screenshot.png)
+![App Screenshot](Screenshot_20250815_003457.png)
+![App Screenshot](Screenshot_20250815_003508.png)
 
 ---
 
@@ -46,10 +47,10 @@ Your Excel file should include a `Marks` column. Example:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/premkumaranubhav/Automated-Grading-Tool.git
+https://github.com/aryan-mkm/Smart-grading-tool
 cd Automated-Grading-Tool
 
-Install Dependencies
+### 2. Install Dependencies
 
 pip install -r requirements.txt
 Requires: streamlit, pandas, matplotlib, openpyxl 
