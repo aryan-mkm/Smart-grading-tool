@@ -48,7 +48,7 @@ Your Excel file should include a `Marks` column. Example:
 ### 1. Clone the Repository
 ```bash
 https://github.com/aryan-mkm/Smart-grading-tool
-cd Automated-Grading-Tool
+cd Smart-grading-tool
 
 ### 2. Install Dependencies
 
